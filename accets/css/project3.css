@@ -1,0 +1,175 @@
+.img1{width: 100%;
+height: 100vh;
+background-size: cover;
+
+
+}
+
+.h1{
+    margin-top: -39%;
+    margin-left: 28%;
+    color: black;
+    font-size: 40px;
+    
+    
+}
+.p1{
+    color: black;
+    text-align: center;
+    display: inline-block;
+    margin-left: 17%;
+    font-size: 20px;
+}
+.button1{
+    margin-top: 1%;
+    margin-left: 45%;
+    width: 125px;
+    height: 60px;
+    background-color: rgb(27, 24, 24);
+    color: white;
+}
+.h2{
+    margin-top: 23%;
+    margin-left: 35%;
+    opacity: 80%;
+}
+.p2{
+    font-size: 20px;
+    display: inline-block;
+    width: 440px;
+    margin-left: 15%;
+    text-align: center;
+    opacity: 90%;
+}
+.p3{
+    font-size: 20px;
+    display: inline-block;
+    width: 440px;
+    margin-left: 9%;
+    text-align: center;
+    opacity: 90%;
+}
+.page2{
+    background-color: black;
+    width: 100%;
+    height: 550px;
+    margin-top: 5%;
+}
+.img2{
+    width: 250px;
+    height: 200px;
+    margin-left: 10%;
+    margin-top: -53%;
+    
+}
+.div2{
+    background-color: white;
+    width: 250px;
+    height: 320px;
+    margin-top: 10%;
+    margin-left: 15%;
+    
+}
+.h3{
+    margin-top: -18%;
+    margin-left: 17%;
+}
+ .p4{
+    font-size: 20px;
+    display: inline-block;
+    width: 200px;
+    margin-left: 17%;
+    text-align: center;
+    opacity: 90%; 
+} *
+.div5{
+    margin-left: 28%;
+    margin-top: -36%; 
+}
+ .div6{
+    margin-left: 55%;
+    margin-top:-42% ; 
+}
+ .img3{
+    width: 250px;
+    height: 200px;
+    margin-left: 15%;
+    margin-top: 2.5%; 
+}
+ .div3{
+    background-color: white;
+    width: 250px;
+    height: 285px;
+    margin-top: -1%;
+    margin-left: 15%;
+}
+.h4{
+    margin-top: -25%;
+    margin-left: 17%; 
+} 
+ .img4{
+    width: 250px;
+    height: 200px;
+    margin-left: 15%;
+    margin-top: 16%; 
+} 
+.div4{
+    background-color: white;
+    width: 250px;
+    height: 285px;
+    margin-top: -1%;
+    margin-left: 15%;
+}
+.h5{
+    margin-top: -40%;
+    margin-left: 19%;
+}
+.h7{
+    margin-top: 4%;
+    margin-left: 35%;
+}
+.p7{
+    font-size: 20px;
+    display: inline-block;
+    width: 840px;
+    margin-left: 18%;
+    text-align: center;
+}
+.foot1{
+    background-color: rgb(104, 104, 250);
+    width: 50%;
+    height: 300px;
+}
+.foot2{
+    background-color: rgb(58, 56, 56);
+    width: 50%;
+    height: 300px;
+    margin-left: 50%;
+    margin-top: -23%;
+}
+.hfoot1{
+    text-align: center;
+    margin-top: 1%;
+    color: white;
+    font-style: inherit;
+}
+.pfoot1{
+    font-size: 20px;
+}
+.end{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    margin-top: -2%;
+    display: inline-block;
+}
+.endh1{
+    color: white;
+    margin-left: 15%;
+    font-size: 21px;
+    
+}
+.endh5{
+    margin-left: 55%;
+    margin-top: -5%;
+}
